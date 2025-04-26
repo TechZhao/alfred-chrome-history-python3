@@ -11,4 +11,4 @@ alfred.py        chrome.py        docopt.py
 我都已经上传到gitHub上了。
 ## 第二步
 双击 woekFlow 后，修改脚本如下：
-<img width="962" alt="image" src="https://github.com/user-attachments/assets/fb320fbb-4275-445b-b8bc-83b7737c525d" />
+<img width="971" alt="image" src="https://github.com/user-attachments/assets/342a822f-4bff-4fc9-9857-b209eb14b214" />
